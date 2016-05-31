@@ -1,2 +1,2 @@
 # ProjectMMM
-Academic project for simulation an electric circuit.
+Academic project for simulation of an electric circuit.
